@@ -979,8 +979,8 @@ section .text-container{
 section .text-container .text-box{
   margin: 20px;
   padding: 20px;
-  width:240px;
-  height:240px;
+  width:200px;
+  height:200px;
   
 }
 section .text-container .text-boxTwo{
